@@ -5,9 +5,10 @@
 ### Please refer all answers from notebook/modeling.ipynb 
 
 The analysis includes exploratory data analysis, data quality assessment, feature engineering, and model development. Logistic Regression was selected as an interpretable baseline, while XGBoost was evaluated to capture potential nonlinear relationships and interactions. Special values and missing observations were identified and handled through appropriate preprocessing. Model evaluation considers discrimination, ranking performance, and the importance of evaluating generalization across origination vintages.
-Overall, the project successfully developed a high-performing credit risk prediction framework capable of identifying borrowers with elevated default risk. XGBoost achieved the strongest predictive performance, while both models highlighted the importance of delinquency history, credit quality, debt burden, and repayment capacity as key determinants of default. With proper monitoring, governance, and feature enhancements, the model could serve as a valuable tool for loan underwriting, risk management, and portfolio monitoring.
-This project develops and evaluates machine learning models for predicting borrower default risk within a 12‑month horizon.
+Overall, the project successfully developed a high-performing credit risk prediction framework capable of identifying borrowers with elevated default risk. XGBoost achieved the strongest predictive performance, while both models highlighted the importance of delinquency history, credit quality, debt burden, and repayment capacity as key determinants of default. With proper monitoring, governance, and feature enhancements, the model could serve as a valuable tool for loan underwriting, risk management, and portfolio monitoring. This project develops and evaluates machine learning models for predicting borrower default risk within a 12‑month horizon.
+
 The objective is to identify key drivers of default and build predictive models that can support credit underwriting, portfolio monitoring, and risk management decisions.
+
 The project covers:
 - Exploratory Data Analysis (EDA)
 - Data Quality Assessment
