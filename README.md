@@ -2,7 +2,7 @@
 
 ## Overview
 
-###Please refer all answers from notebook/modeling.ipynb 
+### Please refer all answers from notebook/modeling.ipynb 
 
 This project develops and evaluates machine learning models for predicting borrower default risk within a 12‑month horizon.
 
