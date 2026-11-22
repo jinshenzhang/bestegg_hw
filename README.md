@@ -2,6 +2,8 @@
 
 ## Overview
 
+###Please refer all answers from notebook/modeling.ipynb 
+
 This project develops and evaluates machine learning models for predicting borrower default risk within a 12‑month horizon.
 
 The objective is to identify key drivers of default and build predictive models that can support credit underwriting, portfolio monitoring, and risk management decisions.
